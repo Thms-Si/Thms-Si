@@ -1,9 +1,9 @@
 <h1 align="center">Bienvenue à toi sur mon Git !💻</h1>
 <h3 align="center">Tu retrouveras mes différents projets ci-dessous 📁</h3>
 
-- 🔄 En développement d'une jumelle de vision nocturne numérique (active) 🌙 : [x](x)
+- 🔄 En développement d'une jumelle de vision nocturne numérique (active) 🌙 : [soon]
 
-- ✅ Gestionnaire de mots de passe physique 🔑 : [x](x)
+- ✅ Gestionnaire de mots de passe physique 🔑 : [Juste ici !](https://github.com/Thms-Si/gestionnaire_mdp)
 
 
 
