@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thms-Si&label=Profile%20views&color=1695e3&style=flat" alt="Thms-Si" /> </p>
 <h1 align="center">Bienvenue à toi sur mon Git !💻</h1>
 <h3 align="center">Tu retrouveras mes différents projets ci-dessous 📁</h3>
 
@@ -14,3 +13,6 @@
 <h4 align="left">Contacte-moi 📩:</h4>
 - 📧 E-mail (publique) : subuflex@protonmail.com<p></p>
 - 💬 Discord : subutex
+
+
+<p align="left"> <BR> <img src="https://komarev.com/ghpvc/?username=Thms-Si&label=Profile%20views&color=1695e3&style=flat" alt="Thms-Si" /> </p>
